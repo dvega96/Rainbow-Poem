@@ -6,6 +6,7 @@ Green
 Blue
 Unicorn
 Yellow
+indigo
 Red
 
 The colors of the rainbow! Also Unicorns, bitch.
